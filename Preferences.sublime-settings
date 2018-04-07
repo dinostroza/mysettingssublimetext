@@ -1,0 +1,14 @@
+{
+	"auto_complete": false,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"ignored_packages":
+	[
+	],
+	"pep257": false,
+	"pep8": false,
+	"sublimelinter": false,
+	"tab_size": 4,
+	"theme": "Adaptive.sublime-theme",
+	"vintage_start_in_command_mode": true,
+	"word_wrap": true
+}

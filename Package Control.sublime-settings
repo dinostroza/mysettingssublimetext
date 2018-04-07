@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"Colorsublime",
+		"GitGutter",
+		"JSX",
+		"Monokai JSON+",
+		"Package Control",
+		"SideBarEnhancements",
+		"Theme - Soda",
+		"TypeScript"
+	]
+}
